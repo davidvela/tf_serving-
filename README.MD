@@ -1,0 +1,3 @@
+# TENSORFLOW SERVING ... 
+examples to deploy models in real life. 
+
